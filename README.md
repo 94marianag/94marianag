@@ -1,4 +1,4 @@
-### ¡ H o l a  M u n d o ! :earth_americas:
+### ¡ H o l a    M u n d o ! :earth_americas:
 
 I'm Mariana García graduated as Biomedical Engineer, but the story doesn't end here, I have always found satisfaction in solving problems coupled with my desire to belong to the IT industry leed me to take a fullstack bootcamp that changed my life ✨   
 And the story of a woman_technologist: fullstack developer begins...

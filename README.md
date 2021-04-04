@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello world :earth_americas:
+
+My desire to belong to the IT industry took me to a programming bootcamp that changed my life ✨ 
+My final project was a simulation of an online radio, I called it RadiEra, check it here https://github.com/94marianag/RaidEra_Online_Radio
 
 <!--
 **94marianag/94marianag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

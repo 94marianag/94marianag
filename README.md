@@ -1,5 +1,6 @@
 ### Hello world :earth_americas:
 
+I'm Mariana García graduated as Biomedical Engineer. 
 My desire to belong to the IT industry took me to a programming bootcamp that changed my life ✨ 
 My final project was a simulation of an online radio, I called it RadiEra, check it here https://github.com/94marianag/RaidEra_Online_Radio
 
